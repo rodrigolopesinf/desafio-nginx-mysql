@@ -1,4 +1,4 @@
-# desafio-nginx-mysql
+# desafio-nginx-node-mysql
 Desafio para utilizar o NGINX como proxy reverso para uma aplicação node.js
 
 -Containers funcionando
